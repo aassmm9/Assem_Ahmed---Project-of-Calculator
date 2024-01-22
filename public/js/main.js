@@ -22,3 +22,7 @@ function calcule() { // Cette function calcule :
 function suppr() {
     form.fenetre.value = ""; // Cette function supprime les caractere de la calculatrice et reste vide.
 }
+
+
+
+// Bonne appetit !
